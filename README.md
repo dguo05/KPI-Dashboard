@@ -10,5 +10,10 @@ How much money did we make this year? Can we indentify any seasonality in the sa
 Are there any pizzas we should take of the menu, or any promotions we could leverage?
 # 2.Data-Gathering
 # 3.Data-Cleaning/transformations
+Checklist:
+1.Renaming tables/columns as per reporting format
+2.Promoting row to header
+3.Data type check
+4.Replacing null with 0
 # 4.Data-Modelling
 # 5.Create-report
