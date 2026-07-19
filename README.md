@@ -19,7 +19,6 @@ The project follows a typical business intelligence workflow: gathering business
 
 ## Dashboard Preview
 
-> Add a screenshot of the final dashboard here.
 
 ![Dashboard Preview](images/dashboard-preview.png)
 
